@@ -1,0 +1,74 @@
+timestamp = 2019-10-04T13:40:36.919343500, CalculatorTest:multiplyPropertyTest = 
+                              |--------------------jqwik--------------------
+tries = 1000                  | # of calls to property
+checks = 1000                 | # of not rejected calls
+generation-mode = RANDOMIZED  | parameters are randomly generated
+after-failure = PREVIOUS_SEED | use the previous seed
+seed = -6034609424578238004   | random seed to reproduce generated values
+
+
+timestamp = 2019-10-04T13:40:37.016798200, CalculatorTest:toimii = 
+                              |--------------------jqwik--------------------
+tries = 1000                  | # of calls to property
+checks = 1000                 | # of not rejected calls
+generation-mode = RANDOMIZED  | parameters are randomly generated
+after-failure = PREVIOUS_SEED | use the previous seed
+seed = 760980442517220556     | random seed to reproduce generated values
+
+
+timestamp = 2019-10-04T13:40:37.079163800, CalculatorTest:substractPropertyTest = 
+                              |--------------------jqwik--------------------
+tries = 1000                  | # of calls to property
+checks = 1000                 | # of not rejected calls
+generation-mode = RANDOMIZED  | parameters are randomly generated
+after-failure = PREVIOUS_SEED | use the previous seed
+seed = -6943255173833516477   | random seed to reproduce generated values
+
+
+timestamp = 2019-10-04T13:40:37.115911900, CalculatorTest:dividePropertyTest = 
+                              |--------------------jqwik--------------------
+tries = 1000                  | # of calls to property
+checks = 1000                 | # of not rejected calls
+generation-mode = RANDOMIZED  | parameters are randomly generated
+after-failure = PREVIOUS_SEED | use the previous seed
+seed = -7999618805922490533   | random seed to reproduce generated values
+
+
+timestamp = 2019-10-04T13:40:37.155534500, CalculatorTest:addPropertyTest = 
+                              |--------------------jqwik--------------------
+tries = 1000                  | # of calls to property
+checks = 1000                 | # of not rejected calls
+generation-mode = RANDOMIZED  | parameters are randomly generated
+after-failure = PREVIOUS_SEED | use the previous seed
+seed = -1581463577896981299   | random seed to reproduce generated values
+
+
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+.
++-- jqwik (JUnit Platform) [OK]
+| '-- CalculatorTest [OK]
+|   +-- multiplyPropertyTest [OK]
+|   +-- toimii [OK]
+|   +-- substractPropertyTest [OK]
+|   +-- dividePropertyTest [OK]
+|   '-- addPropertyTest [OK]
+'-- JUnit Jupiter [OK]
+  '-- CalculatorTest [OK]
+    '-- addTest() [OK]
+
+Test run finished after 806 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         6 tests found           ]
+[         0 tests skipped         ]
+[         6 tests started         ]
+[         0 tests aborted         ]
+[         6 tests successful      ]
+[         0 tests failed          ]
+

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnit Jupiter" tests="1" skipped="0" failures="0" errors="0" time="0.061" hostname="DESKTOP-N60BKLA" timestamp="2019-10-04T13:40:37">
+<properties>
+<property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+<property name="file.encoding" value="UTF-8"/>
+<property name="file.separator" value="\"/>
+<property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+<property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+<property name="java.class.path" value="C:\Users\elmer\IdeaProjects\oom2019-harj3-1\target\test-classes;C:\Users\elmer\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\elmer\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\elmer\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\elmer\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.5.2\junit-jupiter-params-5.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\elmer\.m2\repository\net\jqwik\jqwik\1.2.0\jqwik-1.2.0.jar;C:\Users\elmer\.m2\repository\net\jqwik\jqwik-api\1.2.0\jqwik-api-1.2.0.jar;C:\Users\elmer\.m2\repository\net\jqwik\jqwik-engine\1.2.0\jqwik-engine-1.2.0.jar;C:\Users\elmer\IdeaProjects\oom2019-harj3-1\target\classes;C:\Users\elmer\.m2\repository\org\openjfx\javafx-base\13\javafx-base-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-base\13\javafx-base-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-controls\13\javafx-controls-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-controls\13\javafx-controls-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-fxml\13\javafx-fxml-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-fxml\13\javafx-fxml-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-graphics\13\javafx-graphics-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-graphics\13\javafx-graphics-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-media\13\javafx-media-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-media\13\javafx-media-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-swing\13\javafx-swing-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-swing\13\javafx-swing-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-web\13\javafx-web-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-web\13\javafx-web-13-win.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-launcher\1.5.2\junit-platform-launcher-1.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-reporting\1.5.2\junit-platform-reporting-1.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-console\1.5.2\junit-platform-console-1.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar"/>
+<property name="java.class.version" value="55.0"/>
+<property name="java.home" value="C:\Program Files\Java\jdk-11.0.1"/>
+<property name="java.io.tmpdir" value="C:\Users\elmer\AppData\Local\Temp\"/>
+<property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\sbt\bin;C:\Program Files\Java\jdk-11.0.1\bin;C:\Users\elmer\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin;;C:\Users\elmer\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\elmer\Downloads\node-v10.15.0-win-x64\node-v10.15.0-win-x64;C:\Program Files\heroku\bin;;."/>
+<property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+<property name="java.runtime.version" value="11.0.1+13-LTS"/>
+<property name="java.specification.name" value="Java Platform API Specification"/>
+<property name="java.specification.vendor" value="Oracle Corporation"/>
+<property name="java.specification.version" value="11"/>
+<property name="java.vendor" value="Oracle Corporation"/>
+<property name="java.vendor.url" value="http://java.oracle.com/"/>
+<property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+<property name="java.vendor.version" value="18.9"/>
+<property name="java.version" value="11.0.1"/>
+<property name="java.version.date" value="2018-10-16"/>
+<property name="java.vm.compressedOopsMode" value="32-bit"/>
+<property name="java.vm.info" value="mixed mode"/>
+<property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+<property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+<property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+<property name="java.vm.specification.version" value="11"/>
+<property name="java.vm.vendor" value="Oracle Corporation"/>
+<property name="java.vm.version" value="11.0.1+13-LTS"/>
+<property name="jdk.debug" value="release"/>
+<property name="line.separator" value="
+"/>
+<property name="os.arch" value="amd64"/>
+<property name="os.name" value="Windows 10"/>
+<property name="os.version" value="10.0"/>
+<property name="path.separator" value=";"/>
+<property name="sun.arch.data.model" value="64"/>
+<property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin"/>
+<property name="sun.cpu.endian" value="little"/>
+<property name="sun.cpu.isalist" value="amd64"/>
+<property name="sun.desktop" value="windows"/>
+<property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+<property name="sun.java.command" value="org.junit.platform.console.ConsoleLauncher --fail-if-no-tests --disable-ansi-colors --details tree --details-theme ascii --reports-dir C:\Users\elmer\IdeaProjects\oom2019-harj3-1\target\junit-platform --scan-class-path"/>
+<property name="sun.java.launcher" value="SUN_STANDARD"/>
+<property name="sun.jnu.encoding" value="Cp1252"/>
+<property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+<property name="sun.os.patch.level" value=""/>
+<property name="user.country" value="FI"/>
+<property name="user.dir" value="C:\Users\elmer\IdeaProjects\oom2019-harj3-1"/>
+<property name="user.home" value="C:\Users\elmer"/>
+<property name="user.language" value="fi"/>
+<property name="user.name" value="elmer"/>
+<property name="user.script" value=""/>
+<property name="user.timezone" value="Europe/Helsinki"/>
+<property name="user.variant" value=""/>
+</properties>
+<testcase name="addTest()" classname="fi.utu.tech.CalculatorTest" time="0.024">
+<system-out><![CDATA[
+unique-id: [engine:junit-jupiter]/[class:fi.utu.tech.CalculatorTest]/[method:addTest()]
+display-name: addTest()
+]]></system-out>
+</testcase>
+<system-out><![CDATA[
+unique-id: [engine:junit-jupiter]
+display-name: JUnit Jupiter
+]]></system-out>
+</testsuite>

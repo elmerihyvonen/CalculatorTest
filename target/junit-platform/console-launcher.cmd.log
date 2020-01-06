@@ -1,0 +1,15 @@
+C:\Program Files\Java\jdk-11.0.1\bin\java.exe
+-enableassertions
+-Dfile.encoding=UTF-8
+-classpath
+C:\Users\elmer\IdeaProjects\oom2019-harj3-1\target\test-classes;C:\Users\elmer\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\elmer\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\elmer\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\elmer\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.5.2\junit-jupiter-params-5.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\elmer\.m2\repository\net\jqwik\jqwik\1.2.0\jqwik-1.2.0.jar;C:\Users\elmer\.m2\repository\net\jqwik\jqwik-api\1.2.0\jqwik-api-1.2.0.jar;C:\Users\elmer\.m2\repository\net\jqwik\jqwik-engine\1.2.0\jqwik-engine-1.2.0.jar;C:\Users\elmer\IdeaProjects\oom2019-harj3-1\target\classes;C:\Users\elmer\.m2\repository\org\openjfx\javafx-base\13\javafx-base-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-base\13\javafx-base-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-controls\13\javafx-controls-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-controls\13\javafx-controls-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-fxml\13\javafx-fxml-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-fxml\13\javafx-fxml-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-graphics\13\javafx-graphics-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-graphics\13\javafx-graphics-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-media\13\javafx-media-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-media\13\javafx-media-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-swing\13\javafx-swing-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-swing\13\javafx-swing-13-win.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-web\13\javafx-web-13.jar;C:\Users\elmer\.m2\repository\org\openjfx\javafx-web\13\javafx-web-13-win.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-launcher\1.5.2\junit-platform-launcher-1.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-reporting\1.5.2\junit-platform-reporting-1.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\platform\junit-platform-console\1.5.2\junit-platform-console-1.5.2.jar;C:\Users\elmer\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar
+org.junit.platform.console.ConsoleLauncher
+--fail-if-no-tests
+--disable-ansi-colors
+--details
+tree
+--details-theme
+ascii
+--reports-dir
+C:\Users\elmer\IdeaProjects\oom2019-harj3-1\target\junit-platform
+--scan-class-path
